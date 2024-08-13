@@ -8,6 +8,25 @@ I'm a passionate software developer with a strong background in **Data Structure
 - 💼 **Current Position**: FastAPI Developer at MentRent
 - 🌐 **Location**: India
 
+
+## 📊 My GitHub Stats
+
+![Anand's GitHub stats](https://github-readme-stats.vercel.app/api?username=Anand-Shaurya&show_icons=true&theme=radical)
+![Anand's GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=Anand-Shaurya&theme=radical)
+
+## 🗓 Last Month's Commit Calendar
+
+[![Anand's GitHub Activity Graph](https://activity-graph.herokuapp.com/graph?username=Anand-Shaurya&theme=react-dark&area=true)](https://github.com/ashutosh00710/github-readme-activity-graph)
+
+
+
+
+
+
+
+
+
+
 ## 🛠 Technical Skills
 
 ### Programming Languages
