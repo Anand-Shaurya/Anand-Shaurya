@@ -11,14 +11,12 @@ I'm a passionate software developer with a strong background in **Data Structure
 
 ## 📊 My GitHub Stats
 
-![Anand's GitHub stats](https://github-readme-stats.vercel.app/api?username=Anand-Shaurya&show_icons=true&theme=radical)
 ![Anand's GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=Anand-Shaurya&theme=radical)
 
 
 ## 🗓 Last Month's Commit Calendar
 
-[![Anand's GitHub Activity Graph](https://github-readme-activity-graph.cyclic.app/graph?username=Anand-Shaurya&theme=react-dark&area=true)](https://github.com/Ashutosh00710/github-readme-activity-graph)
-
+[![Anand's GitHub Activity Graph](https://github-readme-activity-graph.cyclic.app/graph?username=Anand-Shaurya&theme=react-dark&area=true)]
 
 ## 🛠 Technical Skills
 
