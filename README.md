@@ -14,10 +14,6 @@ I'm a passionate software developer with a strong background in **Data Structure
 ![Anand's GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=Anand-Shaurya&theme=radical)
 
 
-## 🗓 Last Month's Commit Calendar
-
-[![Anand's GitHub Activity Graph](https://github-readme-activity-graph.cyclic.app/graph?username=Anand-Shaurya&theme=react-dark&area=true)]
-
 ## 🛠 Technical Skills
 
 ### Programming Languages
